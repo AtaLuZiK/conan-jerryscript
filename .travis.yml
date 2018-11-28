@@ -3,7 +3,7 @@ env:
    global:
      - CONAN_REFERENCE: "JerryScript/1.0-a0a6eaa"
      - CONAN_CHANNEL: "stable"
-    CONAN_STABLE_BRANCH_PATTERN: "release/*"
+     - CONAN_STABLE_BRANCH_PATTERN: "release/*"
      
 linux: &linux
    os: linux
