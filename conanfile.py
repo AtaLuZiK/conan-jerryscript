@@ -2,7 +2,7 @@ from conans import ConanFile, CMake, tools
 
 
 class JerryscriptConan(ConanFile):
-    name = "jerryscript"
+    name = "JerryScript"
     version = "1.0-a0a6eaa"
     license = "MIT"
     author = "k000 AtaLuZiK@gmail.com"
@@ -38,7 +38,7 @@ class JerryscriptConan(ConanFile):
         "snapshot_exec=False",
         "snapshot_save=False",
     )
-    exports_sources = "JerryScript-config.cmake"
+    exports_sources = "jerryscript-config.cmake"
     generators = "cmake"
 
     def configure(self):
