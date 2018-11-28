@@ -66,7 +66,7 @@ conan_basic_setup()''')
         cmake.definitions["FEATURE_REGEXP_DUMP"] = "ON" if self.options.regexp_dump else "OFF"
         cmake.definitions["FEATURE_SNAPSHOT_EXEC"] = "ON" if self.options.snapshot_exec else "OFF"
         cmake.definitions["FEATURE_SNAPSHOT_SAVE"] = "ON" if self.options.snapshot_save else "OFF"
-        cmake.configure(source_folder=self.name)
+        cmake.configure(source_folder="jerryscript")
         cmake.build()
 
     def package(self):

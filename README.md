@@ -8,7 +8,7 @@ The packages generated with this **conanfile** can be found on [bintray](https:/
 
 | Bintray | Travis | Appveyor |
 |---------|--------|----------|
-|[ ![Download](https://api.bintray.com/packages/zimmerk/conan/JerryScript%3Azimmerk/images/download.svg) ](https://bintray.com/zimmerk/conan/JerryScript%3Azimmerk/_latestVersion)|[![Build Status](https://travis-ci.org/AtaLuZiK/conan-jerryscript.svg?branch=release%21.0-a0a6eaa)](https://travis-ci.org/AtaLuZiK/conan-jerryscript)|[![Build status](https://ci.appveyor.com/api/projects/status/70j8ueo2npq9fcd5/branch/release/1.0-a0a6eaa?svg=true)](https://ci.appveyor.com/project/AtaLuZiK/conan-jerryscript/branch/release/1.0-a0a6eaa)|
+|[ ![Download](https://api.bintray.com/packages/zimmerk/conan/JerryScript%3Azimmerk/images/download.svg) ](https://bintray.com/zimmerk/conan/JerryScript%3Azimmerk/_latestVersion)|[![Build Status](https://travis-ci.org/AtaLuZiK/conan-jerryscript.svg?branch=release%2F1.0-a0a6eaa)](https://travis-ci.org/AtaLuZiK/conan-jerryscript)|[![Build status](https://ci.appveyor.com/api/projects/status/ffdeij178r320pfa/branch/release/1.0-a0a6eaa?svg=true)](https://ci.appveyor.com/project/AtaLuZiK/conan-jerryscript/branch/release/1.0-a0a6eaa)|
 
 ## Reuse the packages
 
